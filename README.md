@@ -85,3 +85,10 @@
 
 * **ライセンス :** Apache License Version 2.0
 * **ライセンス全文 :** [licenses/Apache.txt](licenses/Apache.txt)
+
+
+### LATEST BUILD
+
+* [![Build status](https://ci.appveyor.com/api/projects/status/sdx721hnm37joqx6?svg=true)](https://ci.appveyor.com/project/veigr/conditionprogressplugin/build/artifacts) [ConditionProgressPlugin - AppVeyor](https://ci.appveyor.com/project/veigr/conditionprogressplugin/build/artifacts)
+* 「ブロックの解除」を忘れないように。
+    * [https://twitter.com/Grabacr07/status/497403215730589696](https://twitter.com/Grabacr07/status/497403215730589696)
