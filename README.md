@@ -1,0 +1,2 @@
+# ConditionProgressPlugin
+艦隊の疲労回復状況をタスク バー インジケーターに報告する KanColleViewer プラグインです
